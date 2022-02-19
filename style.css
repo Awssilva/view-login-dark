@@ -43,13 +43,13 @@ body *{
 }
 
 .card-login {
-    width: 60%;
+    width: 50%;
     height: 30%;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    padding: 30px 35px;
+    padding: 50px 20px;
     background: #2f2841;
     border-radius: 20px;
     box-shadow: 0px 10px 40px #00000056;
